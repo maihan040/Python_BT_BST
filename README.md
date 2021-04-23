@@ -25,4 +25,8 @@ Motivation for this project was twofold:
 
 ## Contents:
   
- 
+  * BT.py - module which contains the binary tree class along with all the methods that operate on that class 
+  * BST.py - module which contains the binary search tree class along with all the methods that operate on that class  
+  * Node.py - module which contains the node class that's used by both a binary tree, and a binary search tree
+  * BT_Driver.py - driver module to test both binary tree and binary search tree classes
+  * BT_Functions.py - module which has methods that can be used by both binary tree, as well as binary search tree objects
